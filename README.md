@@ -1,6 +1,6 @@
 # To-do:
 - Make sign in functional
-- Make task completion/delete buttons functional
+- Make task completion/delete buttons functional (Finished!)
 - Add a way to add more tasks
 - Session storage
 - CSS
